@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sonusourav.MILErecorder.MainActivity" >
+
+    <item android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/icon_home_disabled"
+        android:title="@string/home"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:id="@+id/action_profile"
+        android:title="@string/profile"
+        android:icon="@drawable/icon_profile_disabled"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:icon="@drawable/icon_setting_disabled"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+</menu>

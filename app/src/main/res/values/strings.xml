@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MILE Recorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="your_name">Name</string>
+    <string name="name">Name</string>
+</resources>
